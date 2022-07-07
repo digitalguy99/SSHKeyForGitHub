@@ -11,7 +11,7 @@ How to get public key for use of SSH Protocol on GitHub
 3. Right-click and click on 'Paste'
 
 
-## ` Mac/Linux ` (zsh/BASH/tcsh/csh/sh)
+## ` Mac ` (zsh/BASH/tcsh/csh/sh)
 
 1. Download .sh file or simply run
    ```bash
